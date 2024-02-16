@@ -1,0 +1,7 @@
+Test case Detailed Report - Random_Date_Generator_TestReport.xslx
+Test Bug report - TB0001_Bug_Report
+Screenshots of defects - Defect screenshot folder
+Feature improvement folder - Screenshots of the application where feature enhancement can be made
+Test case output files - Test data
+DefaultPage.py - Automated script for few test cases
+Main.py - start of the program
